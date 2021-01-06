@@ -1,7 +1,7 @@
 <template>
     <div class="login">
         <div class="login-title">
-             <h1>登陆界面(账号密码在同级account.js文件下))</h1>
+             <h1>登陆界面(账号密码在同级account.js文件下----fenzhi))</h1>
         </div>
         <div class="login-body">
            <input type="text" v-model="username" placeholder="用户名">
